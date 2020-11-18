@@ -5,20 +5,20 @@ Parse CSV data and Visualize it with graphs.
 
 This installation guide assumes you already have npm/Node installed in your machine. Run below instructions on the terminal.
 
-###Install Server dependencies: 
+### Install Server dependencies: 
 ```javascript
 cd Parser/server && npm i
 ```
-###Start server
+### Start server
 ```javascript
 npm run dev
 ```
 
-###Install client dependencies: 
+### Install client dependencies: 
 ```javascript
 cd ../client && npm i
 ```
-###Start client project
+### Start client project
 ```javascript
 npm run dev
 ```
